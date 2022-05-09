@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BEM</string>
+    <string name="feitoria">Feitoria</string>
+    <string name="leopoldense">Leopoldense</string>
+    <string name="sinoscap">Sinoscap</string>
+    <string name="sete_de_setembro">Sete de Setembro</string>
+    <string name="reclame_aqui">Reclame Aqui</string>
+    <string name="segunda_a_sexta_leopoldense">Segunda a sexta</string>
+    <string name="sabado_leopoldense">Sábado</string>
+    <string name="domingo_leopoldense">Domingo</string>
+    <string name="leoSAb">leoSab</string>
+    <string name="domLeo">domLeo</string>
+    <string name="segLeo">segLeo</string>
+    <string name="segLeo2">segLeo</string>
+    <string name="segunda_a_sexta">Segunda a sexta</string>
+    <string name="s_bado">Sábado</string>
+    <string name="domingo">Domingo</string>
+    <string name="sabado">Sábado</string>
+    <string name="sugest_es_e_reclama_es">Sugestões e Reclamações</string>
+    <string name="hor_rios">Horários</string>
+    <string name="Leopoldense">TODO</string>
+    <string name="Feitoria">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="leopoldenseBuss">LeopoldenseBuss</string>
+</resources>
